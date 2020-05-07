@@ -8,8 +8,6 @@ This repo contains [grafonnet](https://github.com/grafana/grafonnet-lib) plugins
 
 Library of [Flant Statusmap](https://grafana.com/grafana/plugins/flant-statusmap-panel) plugin.
 
-### Polystat panel
-
 
 ## Installation
 
