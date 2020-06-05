@@ -1,5 +1,5 @@
+local statusMap = import '../../statusmap_panel.libsonnet';
 local grafana = import 'grafonnet/grafana.libsonnet';
-local statusMap = grafana.statusMap;
 
 {
   discrete_color_mode: statusMap.new(

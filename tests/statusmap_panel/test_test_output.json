@@ -64,7 +64,7 @@
       "legend": {
          "show": true
       },
-      "nullPointMode": "as empty",
+      "nullPointMode": "as zero",
       "title": "Opacity color mode",
       "type": "flant-statusmap-panel",
       "useMax": true,
@@ -93,7 +93,7 @@
       "legend": {
          "show": true
       },
-      "nullPointMode": "as empty",
+      "nullPointMode": "as zero",
       "title": "Spectrum color mode",
       "type": "flant-statusmap-panel",
       "useMax": true,

@@ -93,7 +93,7 @@
     },
     [if cards_cardRound != null then 'cards_cardRound']: cards_cardRound,
 
-    nullPointMode: 'as empty',
+    nullPointMode: nullPointMode,
     yAxisSort: yAxisSort,
     highlightCards: highlightCards,
     useMax: useMax,
